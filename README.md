@@ -24,14 +24,14 @@ Fazer o clone do projeto:
 Instalar as dependências:
 - npm install
 
-Criar o arquivo .env na raiz do projeto, com os dados:
-  PORT = 3003
-  DB_HOST = adicionar o endereço do localhost
-  DB_USER = adicionar o user
-  DB_PASSWORD = adicionar a senha
-  DB_DATABASE = adicionar o schema
-  JWT_KEY = chave usada para gerar o token
-  JWT_EXPIRES_IN = tempo de expiração do token
+Criar o arquivo .env na raiz do projeto, com os dados: </br>
+  PORT = 3003 </br>
+  DB_HOST = adicionar o endereço do localhost </br>
+  DB_USER = adicionar o user </br>
+  DB_PASSWORD = adicionar a senha </br>
+  DB_DATABASE = adicionar o schema </br>
+  JWT_KEY = chave usada para gerar o token </br>
+  JWT_EXPIRES_IN = tempo de expiração do token </br>
   BCRYPT_SALT_ROUNDS = parâmetro salt utilizado pelo Bcrypt
 
 Rodar o projeto:
